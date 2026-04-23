@@ -1,0 +1,11 @@
+// Class definition
+public class Car {
+    // Properties (fields)
+    String color;
+    int speed;
+
+    // Method
+    void drive() {
+        System.out.println("The car is driving at speed: " + speed + " km/h");
+    }
+}
